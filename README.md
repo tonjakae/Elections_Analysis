@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
+## Election Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
@@ -26,7 +26,3 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-
-## Challenge Overview
-
-## Challenge Summary
